@@ -1,5 +1,1 @@
-test
-Creating a new branch is quick and simple.
-switch to new branch dev
-this is a production branch
 this ia feature-vulcan
